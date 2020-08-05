@@ -23,5 +23,5 @@ Vue.js      46 mins             █░░░░░░░░░░░░░░░
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyYUan-Oni&layout=compact" />
 </a>
 <a href="https://github.com/AndyYUan-Oni/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=AndyYUan-Oni&hide=stars" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=AndyYUan-Oni&hide=stars" />
 </a>
