@@ -8,10 +8,8 @@ I'm trying to code some bug and debug
 
 <!--START_SECTION:waka-->
 ```text
-Python      56 mins             ████████████████████░░░░░   82.10 % 
-JavaScript  7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-HTML        4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-Markdown    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+HTML        4 mins              ███████████████████████░░   92.78 % 
+JavaScript  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
 ```
 <!--END_SECTION:waka-->
 
