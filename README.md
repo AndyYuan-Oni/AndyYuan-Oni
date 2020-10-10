@@ -2,7 +2,7 @@
 
 I'm trying to code some bug and debug
 
-- 🌱 I’m currently learning Python and Linux (for fun)
+- 🌱 Further plan: C# and Unity
 - 📫 How to reach me: [@AndyYuan-Oni](https://github.com/AndyYuan-Oni)
 
 
