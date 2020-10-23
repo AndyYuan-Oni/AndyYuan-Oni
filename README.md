@@ -8,11 +8,11 @@ I'm trying to code some bug and debug
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript  4 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   36.28 % 
-Markdown    2 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
-HTML        1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-CSS         58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
-Bash        56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
+HTML        4 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   35.49 % 
+JavaScript  3 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
+Markdown    2 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
+Bash        45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+Vue.js      35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
 ```
 <!--END_SECTION:waka-->
 
