@@ -8,11 +8,11 @@ I'm trying to code some bug and debug
 
 <!--START_SECTION:waka-->
 ```text
-Terraform   48 mins             █████░░░░░░░░░░░░░░░░░░░░   22.25 % 
-JavaScript  44 mins             █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
-JSON        38 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
-Markdown    34 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
-Other       14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
+JavaScript  1 hr 36 mins        ██████████░░░░░░░░░░░░░░░   40.39 % 
+Markdown    1 hr 14 mins        ███████░░░░░░░░░░░░░░░░░░   31.13 % 
+Terraform   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+JSON        14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+Bash        12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
 ```
 <!--END_SECTION:waka-->
 
