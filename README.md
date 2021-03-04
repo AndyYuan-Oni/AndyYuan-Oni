@@ -8,9 +8,8 @@ I'm trying to code some bug and debug
 
 <!--START_SECTION:waka-->
 ```text
-Markdown    39 mins             ███████████████░░░░░░░░░░   61.90 % 
-Bash        21 mins             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Batchfile   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
+Markdown    39 mins             ███████████████████████░░   92.84 % 
+Batchfile   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
 ```
 <!--END_SECTION:waka-->
 
