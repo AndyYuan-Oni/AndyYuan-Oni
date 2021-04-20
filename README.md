@@ -8,8 +8,7 @@ I'm trying to code some bug and debug
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript  1 min               ██████████████████░░░░░░░   75.03 % 
-HTML        0 secs              ██████░░░░░░░░░░░░░░░░░░░   24.97 %
+
 ```
 <!--END_SECTION:waka-->
 
