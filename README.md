@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm trying to code some bug and debug
+I'm trying to make games in an intence part time
 
-- 🌱 Further plan: C# and Unity
+- 🌱 Further plan: Vibe Coding with Godot
 - 📫 How to reach me: [@AndyYuan-Oni](https://github.com/AndyYuan-Oni)
 
 
