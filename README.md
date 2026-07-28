@@ -2,7 +2,7 @@
 
 I'm trying to make games in an intence part time
 
-- 🌱 Further plan: Vibe Coding with Godot
+- 🌱 Further plan: Vibe Coding with Godot, make more Prototypes.
 - 📫 How to reach me: [@AndyYuan-Oni](https://github.com/AndyYuan-Oni)
 
 
