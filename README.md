@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm trying to make games in an intence part time
+I'm trying to make games in part time.
 
 - 🌱 Further plan: Vibe Coding with Godot, make more Prototypes.
 - 📫 How to reach me: [@AndyYuan-Oni](https://github.com/AndyYuan-Oni)
